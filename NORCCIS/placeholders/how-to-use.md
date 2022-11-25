@@ -1,7 +1,6 @@
-There are no guidelines for using this element available at the moment. This might change!
-
+## No guidelines available yet
+There are no specific guidelines for using this element available at the moment. This might change!
 ## Is it being worked on?
-
 Check the [production status](https://zeroheight.com/40ca136a2/v/0/p/15adc5-production-status) page to see if it is being worked on. 
 Contact the design system teams for more specific details.
 ## Need help using this element?
@@ -13,5 +12,4 @@ If you have experience in using this element, you are welcome to contribute guid
 * Short and concise, choose bullet point lists over paragraphs.
 * Illustrated when needed.
 For an example see the [ndma-button "How To Use" tab](https://zeroheight.com/40ca136a2/v/0/p/3006f5-button/b/09d7b1)
-
-:tada: :tada: :tada:
+---
