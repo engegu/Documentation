@@ -4,5 +4,5 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - how-to-use.md
-  - components.md
+  - placeholders/how-to-use.md
+  - placeholders/components.md
