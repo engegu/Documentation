@@ -6,3 +6,4 @@ relative_links:
 include:
   - placeholders/how-to-use.md
   - placeholders/component.md
+  theme: minima
